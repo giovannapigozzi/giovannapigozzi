@@ -1,4 +1,4 @@
-### hello there :ghost:
+## hello there :ghost:
 
 my name is Giovanna Pigozzi and I'm a software engineer based in Campinas, Brazil. 
 
