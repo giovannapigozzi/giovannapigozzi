@@ -14,7 +14,7 @@ interested in:
 
 reach me at: 
 
-<a href="https://www.linkedin.com/in/felipegustavos/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=27px></img></a>
+<a href="https://www.linkedin.com/in/giovannapigozzi/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=27px></img></a>
 <a href="mailto:gvnnpgzz@gmail.com"><img src="https://image.flaticon.com/icons/png/512/732/732200.png" width=27px></img></a>
 
 
